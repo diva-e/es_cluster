@@ -2,6 +2,8 @@
 
 Der Elasticsearch Cluster für mal eben schnell.
 
+Die Konfiguration wurde ausgelagert, damit Language/Hyphenation Files benutzt werden können.
+
 ## Voraussetzungen
 Der Elasticsearch-Cluster läuft auf einem Ubuntu 17.10
 * mit docker und docker-compose
