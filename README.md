@@ -23,8 +23,8 @@ vm.max_map_count=262144
 
 Vor dem Start von Elasticsearch müssen Schreibrechte auf Verzeichnissen `es_cluster/data` und `es_cluster/config` mit
 ```
-chmod a+x es_cluster/data
-chmod a+x es_cluster/config
+chmod a+wx es_cluster/data
+chmod a+wx es_cluster/config
 
 ```
 gegeben werden.
